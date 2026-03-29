@@ -1,0 +1,39 @@
+{
+  "manifest_version": 2,
+  "version": "2.0",
+  "name": "Ocean Paisley Moon 2",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(26, 36, 48, 0.63)",
+      "toolbar_text": "rgb(189, 229, 255)",
+      "frame": "rgb(32, 42, 60)",
+      "tab_background_text": "rgb(122, 174, 200)",
+      "toolbar_field": "rgba(26, 26, 46, 0.37)",
+      "toolbar_field_text": "rgb(240, 240, 255)",
+      "tab_line": "rgb(154, 183, 208)",
+      "popup": "rgb(30, 42, 54)",
+      "popup_text": "rgb(189, 229, 255)",
+      "frame_inactive": "rgb(27, 40, 53)",
+      "ntp_background": "rgb(31, 46, 61)",
+      "tab_loading": "rgb(154, 183, 208)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{e8ad862f-8b72-49e5-ae3f-676935640a87}"
+    }
+  }
+}

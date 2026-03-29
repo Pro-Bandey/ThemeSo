@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Team Pakistan Zindabad",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.jpg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "right top",
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat",
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(43, 127, 86)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(126, 164, 118)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgba(213, 255, 206, 0.38)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(227, 255, 221)",
+      "popup": "rgb(43, 127, 86)",
+      "popup_text": "rgb(255, 255, 255)",
+      "button_background_hover": "rgba(255, 255, 255, 0.52)",
+      "popup_border": "rgb(255, 255, 255)",
+      "sidebar_border": "rgb(255, 255, 255)",
+      "toolbar_bottom_separator": "rgb(255, 255, 255)",
+      "toolbar_field_border": "rgb(255, 255, 255)",
+      "toolbar_top_separator": "rgb(255, 255, 255)",
+      "tab_loading": "rgb(227, 255, 221)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "team-pakistan-zindabad@pro-bandey.com"
+    }
+  }
+}

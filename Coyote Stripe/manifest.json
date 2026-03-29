@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Coyote Stripe",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.jpg",
+        "images/1.jpg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center top",
+        "right top"
+      ],
+      "additional_backgrounds_tiling": [
+        "no-repeat",
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(0, 0, 0)",
+      "toolbar_text": "rgb(225, 197, 169)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(192, 158, 125)",
+      "toolbar_field": "rgb(206, 205, 199)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(192, 158, 125)",
+      "popup": "rgb(192, 158, 125)",
+      "popup_text": "rgb(0, 0, 0)",
+      "tab_loading": "rgb(192, 158, 125)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{d0dcf0ed-d826-453d-91f0-6084c9fa922f}"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "bebol",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bebol.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "frame": [0, 0, 0],
+      "toolbar": [54, 41, 41],
+      "toolbar_text": [255, 255, 255],
+      "toolbar_field": [0, 0, 0],
+      "toolbar_field_text": [255, 255, 255],
+      "tab_line": [255, 255, 255],
+      "tab_selected": "rgba(232, 232, 232, 0.25)",
+      "ntp_background": [246, 246, 246],
+      "icons": [255, 255, 255]
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{564bc51f-9711-4e3d-9bfa-f7d459b0c013}"
+    }
+  }
+}
