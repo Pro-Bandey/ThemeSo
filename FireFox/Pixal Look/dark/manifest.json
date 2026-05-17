@@ -1,0 +1,65 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Pixal Look - Dark"
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "left top"
+      ],
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(33, 37, 41)",
+      "toolbar_text": "rgb(235, 241, 242)",
+      "frame": "rgb(24, 28, 36)",
+      "tab_background_text": "rgb(174, 198, 207)",
+      "toolbar_field": "rgb(44, 48, 56)",
+      "toolbar_field_text": "rgb(245, 235, 225)",
+      "tab_line": "rgb(226, 135, 138)",
+      "popup": "rgb(33, 37, 41)",
+      "popup_text": "rgb(212, 227, 229)",
+      "button_background_active": "rgb(55, 65, 81)",
+      "button_background_hover": "rgb(75, 85, 99)",
+      "frame_inactive": "rgb(31, 35, 41)",
+      "icons_attention": "rgb(226, 135, 138)",
+      "icons": "rgb(235, 241, 242)",
+      "ntp_background": "rgb(24, 28, 36)",
+      "ntp_text": "rgb(245, 235, 225)",
+      "popup_border": "rgb(55, 65, 81)",
+      "popup_highlight_text": "rgb(33, 37, 41)",
+      "popup_highlight": "rgb(226, 135, 138)",
+      "sidebar_border": "rgb(55, 65, 81)",
+      "sidebar_highlight_text": "rgb(245, 235, 225)",
+      "sidebar_highlight": "rgb(44, 48, 56)",
+      "sidebar_text": "rgb(212, 227, 229)",
+      "sidebar": "rgb(33, 37, 41)",
+      "tab_background_separator": "rgb(44, 48, 56)",
+      "tab_loading": "rgb(226, 135, 138)",
+      "tab_selected": "rgb(33, 37, 41)",
+      "tab_text": "rgb(245, 235, 225)",
+      "toolbar_bottom_separator": "rgb(55, 65, 81)",
+      "toolbar_field_border_focus": "rgb(226, 135, 138)",
+      "toolbar_field_border": "rgb(55, 65, 81)",
+      "toolbar_field_focus": "rgb(24, 28, 36)",
+      "toolbar_field_highlight_text": "rgb(33, 37, 41)",
+      "toolbar_field_highlight": "rgb(226, 135, 138)",
+      "toolbar_field_separator": "rgb(55, 65, 81)",
+      "toolbar_field_text_focus": "rgb(255, 255, 255)",
+      "toolbar_top_separator": "rgb(44, 48, 56)",
+      "toolbar_vertical_separator": "rgb(55, 65, 81)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "pixal-look-dark@pro-bandey.com"
+    }
+  }
+}

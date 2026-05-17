@@ -1,0 +1,23 @@
+{
+    "name": "bubber-theme",
+    "displayName": "Bubber Theme",
+    "version": "1.5.0",
+    "publisher": "apust",
+    "license": "MIT",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bubber",
+                "uiTheme": "vs-dark",
+                "path": "./themes/bubber-color-theme.json"
+            }
+        ]
+    }
+}

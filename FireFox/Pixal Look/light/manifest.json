@@ -1,0 +1,65 @@
+{
+  "manifest_version": 2,
+  "version": "5.0",
+  "name": "Pixal Look Light",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "left top"
+      ],
+      "additional_backgrounds_tiling": [
+        "no-repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(245, 235, 225)",
+      "toolbar_text": "rgb(26, 37, 48)",
+      "frame": "rgb(174, 198, 207)",
+      "tab_background_text": "rgb(44, 62, 80)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(26, 37, 48)",
+      "tab_line": "rgb(226, 135, 138)",
+      "popup": "rgb(248, 249, 250)",
+      "popup_text": "rgb(91, 110, 133)",
+      "button_background_active": "rgb(203, 213, 225)",
+      "button_background_hover": "rgb(226, 232, 240)",
+      "frame_inactive": "rgb(195, 209, 213)",
+      "icons_attention": "rgb(226, 135, 138)",
+      "icons": "rgb(26, 37, 48)",
+      "ntp_background": "rgb(248, 249, 250)",
+      "ntp_text": "rgb(26, 37, 48)",
+      "popup_border": "rgb(226, 232, 240)",
+      "popup_highlight_text": "rgb(255, 255, 255)",
+      "popup_highlight": "rgb(74, 144, 226)",
+      "sidebar_border": "rgb(212, 227, 229)",
+      "sidebar_highlight_text": "rgb(26, 37, 48)",
+      "sidebar_highlight": "rgb(235, 241, 242)",
+      "sidebar_text": "rgb(44, 62, 80)",
+      "sidebar": "rgb(248, 249, 250)",
+      "tab_background_separator": "rgb(189, 204, 212)",
+      "tab_loading": "rgb(226, 135, 138)",
+      "tab_selected": "rgb(245, 235, 225)",
+      "tab_text": "rgb(26, 37, 48)",
+      "toolbar_bottom_separator": "rgb(210, 223, 226)",
+      "toolbar_field_border_focus": "rgb(74, 144, 226)",
+      "toolbar_field_border": "rgb(212, 227, 229)",
+      "toolbar_field_focus": "rgb(255, 255, 255)",
+      "toolbar_field_highlight_text": "rgb(255, 255, 255)",
+      "toolbar_field_highlight": "rgb(74, 144, 226)",
+      "toolbar_field_separator": "rgb(226, 232, 240)",
+      "toolbar_field_text_focus": "rgb(26, 37, 48)",
+      "toolbar_top_separator": "rgb(189, 204, 212)",
+      "toolbar_vertical_separator": "rgb(210, 223, 226)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "pixal-look-light@pro-bandey.com"
+    }
+  }
+}
