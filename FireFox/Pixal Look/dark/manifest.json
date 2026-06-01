@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "version": "1.0",
-  "name": "Pixal Look - Dark"
+  "name": "Pixal Look - Dark",
   "theme": {
     "images": {
       "additional_backgrounds": [
