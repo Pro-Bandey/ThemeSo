@@ -1,0 +1,38 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "MacOS Monterey Dark",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgba(0, 0, 0, 0)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(55, 55, 55)",
+      "tab_background_text": "rgb(226, 226, 226)",
+      "toolbar_field": "rgb(0, 2, 4)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgba(0, 0, 0, 0)",
+      "popup": "rgb(38, 40, 42)",
+      "popup_text": "rgb(226, 226, 226)",
+      "button_background_active": "rgb(125, 125, 125)",
+      "button_background_hover": "rgb(115, 115, 115)",
+      "frame_inactive": "rgb(40, 40, 40)",
+      "icons": "rgb(226, 226, 226)",
+      "ntp_background": "rgb(55, 55, 55)",
+      "ntp_text": "rgb(255, 255, 255)",
+      "popup_border": "rgba(0, 0, 0, 0)",
+      "sidebar_border": "rgba(0, 0, 0, 0)",
+      "tab_selected": "rgb(90, 90, 90)",
+      "toolbar_bottom_separator": "rgba(38, 40, 42, 0)",
+      "toolbar_field_border_focus": "rgb(70, 118, 160)",
+      "toolbar_top_separator": "rgba(0, 0, 0, 0)",
+      "tab_loading": "rgba(0, 0, 0, 0)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "macos-monterey-dark@pro-bandey.com"
+    }
+  }
+}
