@@ -1,20 +1,15 @@
 {
   "manifest_version": 2,
   "version": "1.0",
-  "name": "bebol",
+  "name": "Bebol",
+
   "theme": {
     "images": {
-      "additional_backgrounds": [
-        "images/bebol.svg"
-      ]
+      "additional_backgrounds": ["images/bebol.svg"]
     },
     "properties": {
-      "additional_backgrounds_alignment": [
-        "top"
-      ],
-      "additional_backgrounds_tiling": [
-        "repeat"
-      ]
+      "additional_backgrounds_alignment": ["top"],
+      "additional_backgrounds_tiling": ["repeat"]
     },
     "colors": {
       "frame": [0, 0, 0],
@@ -30,7 +25,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "{564bc51f-9711-4e3d-9bfa-f7d459b0c013}"
+      "id": "bebol@pro-bandey.com"
     }
   }
 }
