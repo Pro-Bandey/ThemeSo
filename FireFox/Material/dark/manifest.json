@@ -1,0 +1,62 @@
+{
+  "manifest_version": 2,
+  "name": "Material Dark",
+  "version": "2.0",
+  "description": "Material Dark Theme for Firefox",
+
+  "theme": {
+    "colors": {
+      "frame": "#202124",
+      "frame_inactive": "#292A2D",
+
+      "tab_text": "#F1F3F4",
+      "tab_background_text": "#9AA0A6",
+      "tab_background_separator": "#3C4043",
+      "tab_selected": "#292A2D",
+      "tab_line": "#8AB4F8",
+      "tab_loading": "#8AB4F8",
+
+      "icons": "#E8EAED",
+      "icons_attention": "#8AB4F8",
+
+      "toolbar": "#292A2D",
+      "toolbar_top_separator": "#202124",
+      "toolbar_bottom_separator": "#202124",
+      "toolbar_vertical_separator": "#3C4043",
+
+      "toolbar_field": "#202124",
+      "toolbar_field_focus": "#202124",
+      "toolbar_field_text": "#E8EAED",
+      "toolbar_field_border": "#202124",
+      "toolbar_field_border_focus": "#8AB4F8",
+      "toolbar_field_separator": "#3C4043",
+      "toolbar_field_highlight": "#384961",
+      "toolbar_field_highlight_text": "#FFFFFF",
+
+      "popup": "#292A2D",
+      "popup_text": "#E8EAED",
+      "popup_border": "#3C4043",
+      "popup_highlight": "#3C4043",
+      "popup_highlight_text": "#FFFFFF",
+
+      "button_background_hover": "#3C4043",
+      "button_background_active": "#4F5357",
+
+      "bookmark_text": "#E8EAED",
+
+      "sidebar": "#202124",
+      "sidebar_border": "#3C4043",
+      "sidebar_highlight": "#384961",
+      "sidebar_text": "#E8EAED",
+      "sidebar_highlight_text": "#FFFFFF",
+
+      "ntp_text": "#E8EAED",
+      "ntp_background": "#202124"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "material-dark@pro-bandey.com"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "manifest_version": 2,
+  "version": "3.0",
+  "name": "Nuca Red Light",
+  "description": "Nuca Red Light Theme for Firefox",
+  "theme": {
+    "colors": {
+      "frame": "rgb(250, 245, 245)",
+      "frame_inactive": "rgb(242, 236, 236)",
+
+      "toolbar": "rgb(255, 250, 250)",
+      "toolbar_text": "rgb(33, 33, 33)",
+
+      "tab_selected": "rgb(255, 255, 255)",
+      "tab_text": "rgb(20, 20, 20)",
+      "tab_background_text": "rgb(100, 100, 100)",
+      "tab_background_separator": "rgb(220, 210, 210)",
+      "tab_line": "rgb(244, 66, 52)",
+      "tab_loading": "rgb(244, 66, 52)",
+
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_focus": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(33, 33, 33)",
+      "toolbar_field_text_focus": "rgb(20, 20, 20)",
+
+      "toolbar_field_border": "rgb(210, 200, 200)",
+      "toolbar_field_border_focus": "rgb(244, 66, 52)",
+
+      "toolbar_field_highlight": "rgb(244, 66, 52)",
+      "toolbar_field_highlight_text": "rgb(255, 255, 255)",
+
+      "toolbar_field_separator": "rgb(220, 210, 210)",
+
+      "popup": "rgb(255, 255, 255)",
+      "popup_text": "rgb(33, 33, 33)",
+      "popup_border": "rgb(220, 210, 210)",
+      "popup_highlight": "rgb(255, 235, 233)",
+      "popup_highlight_text": "rgb(20, 20, 20)",
+
+      "sidebar": "rgb(252, 248, 248)",
+      "sidebar_text": "rgb(33, 33, 33)",
+      "sidebar_highlight": "rgb(255, 225, 221)",
+      "sidebar_highlight_text": "rgb(20, 20, 20)",
+      "sidebar_border": "rgb(220, 210, 210)",
+
+      "icons": "rgb(80, 80, 80)",
+      "icons_attention": "rgb(244, 66, 52)",
+
+      "button_background_hover": "rgb(255, 235, 233)",
+      "button_background_active": "rgb(255, 215, 210)",
+
+      "ntp_background": "rgb(255, 252, 252)",
+      "ntp_text": "rgb(33, 33, 33)",
+
+      "toolbar_top_separator": "rgb(220, 210, 210)",
+      "toolbar_bottom_separator": "rgb(220, 210, 210)",
+      "toolbar_vertical_separator": "rgb(220, 210, 210)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "nuca-red-light@pro-bandey.com"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "manifest_version": 2,
+  "version": "3.0",
+  "name": "Nuca Red Dark",
+  "description": "Nuca Red Dark Theme for Firefox",
+  "theme": {
+    "colors": {
+      "frame": "rgb(24, 18, 18)",
+      "frame_inactive": "rgb(36, 28, 28)",
+
+      "toolbar": "rgb(30, 22, 22)",
+      "toolbar_text": "rgb(245, 245, 245)",
+
+      "tab_selected": "rgb(42, 30, 30)",
+      "tab_text": "rgb(255, 255, 255)",
+      "tab_background_text": "rgb(180, 170, 170)",
+      "tab_background_separator": "rgb(72, 52, 52)",
+      "tab_line": "rgb(244, 66, 52)",
+      "tab_loading": "rgb(244, 66, 52)",
+
+      "toolbar_field": "rgb(40, 30, 30)",
+      "toolbar_field_focus": "rgb(52, 38, 38)",
+      "toolbar_field_text": "rgb(245, 245, 245)",
+      "toolbar_field_text_focus": "rgb(255, 255, 255)",
+
+      "toolbar_field_border": "rgb(90, 65, 65)",
+      "toolbar_field_border_focus": "rgb(244, 66, 52)",
+
+      "toolbar_field_highlight": "rgb(244, 66, 52)",
+      "toolbar_field_highlight_text": "rgb(255, 255, 255)",
+
+      "toolbar_field_separator": "rgb(80, 60, 60)",
+
+      "popup": "rgb(34, 26, 26)",
+      "popup_text": "rgb(235, 235, 235)",
+      "popup_border": "rgb(90, 65, 65)",
+      "popup_highlight": "rgb(244, 66, 52)",
+      "popup_highlight_text": "rgb(255, 255, 255)",
+
+      "sidebar": "rgb(28, 20, 20)",
+      "sidebar_text": "rgb(220, 220, 220)",
+      "sidebar_highlight": "rgb(92, 40, 36)",
+      "sidebar_highlight_text": "rgb(255, 255, 255)",
+      "sidebar_border": "rgb(72, 52, 52)",
+
+      "icons": "rgb(225, 225, 225)",
+      "icons_attention": "rgb(244, 66, 52)",
+
+      "button_background_hover": "rgb(62, 44, 44)",
+      "button_background_active": "rgb(84, 56, 56)",
+
+      "ntp_background": "rgb(18, 14, 14)",
+      "ntp_text": "rgb(245, 245, 245)",
+
+      "toolbar_top_separator": "rgb(72, 52, 52)",
+      "toolbar_bottom_separator": "rgb(72, 52, 52)",
+      "toolbar_vertical_separator": "rgb(72, 52, 52)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "nuca-red-dark@pro-bandey.com"
+    }
+  }
+}
