@@ -1,0 +1,81 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Redfall Theme Browser",
+  "theme": {
+    "images": {
+      "theme_ntp_attribution": "images/attribution.png",
+      "theme_ntp_background": "images/image.png"
+    },
+    "colors": {
+      "frame": [
+        211,
+        83,
+        52
+      ],
+      "ntp_background": [
+        251,
+        215,
+        128
+      ],
+      "tab_text": [
+        251,
+        215,
+        128
+      ],
+      "tab_background_text": [
+        4,
+        4,
+        4
+      ],
+      "bookmark_text": [
+        251,
+        215,
+        128
+      ],
+      "ntp_text": [
+        4,
+        4,
+        4
+      ],
+      "ntp_link": [
+        6,
+        55,
+        116
+      ],
+      "ntp_header": [
+        150,
+        150,
+        150
+      ],
+      "toolbar": [
+        111,
+        33,
+        26
+      ],
+      "toolbar_text": [
+        251,
+        215,
+        128
+      ],
+      "button_background": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "toolbar_button_icon": [
+        251,
+        215,
+        128
+      ]
+    },
+    "tints": {},
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}

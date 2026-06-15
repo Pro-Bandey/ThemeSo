@@ -1,0 +1,79 @@
+{
+  "manifest_version": 3,
+  "version": "2.0",
+  "name": "Purple AI",
+  "theme": {
+    "images": {
+      "theme_ntp_attribution": "images/attribution.png",
+      "theme_ntp_background": "images/image.png"
+    },
+    "colors": {
+      "frame": [
+        193,
+        54,
+        206
+      ],
+      "ntp_background": [
+        247,
+        224,
+        245
+      ],
+      "tab_text": [
+        247,
+        224,
+        245
+      ],
+      "tab_background_text": [
+        12,
+        9,
+        15
+      ],
+      "bookmark_text": [
+        247,
+        224,
+        245
+      ],
+      "ntp_text": [
+        12,
+        9,
+        15
+      ],
+      "ntp_link": [
+        6,
+        55,
+        116
+      ],
+      "ntp_header": [
+        150,
+        150,
+        150
+      ],
+      "toolbar": [
+        101,
+        38,
+        180
+      ],
+      "toolbar_text": [
+        247,
+        224,
+        245
+      ],
+      "button_background": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "toolbar_button_icon": [
+        247,
+        224,
+        245
+      ]
+    },
+    "tints": {},
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}

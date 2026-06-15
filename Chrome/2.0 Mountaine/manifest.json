@@ -13,7 +13,7 @@
       },
       "images": {
          "theme_ntp_attribution": "images/attribution.png",
-         "theme_ntp_background": "Mountain.png"
+         "theme_ntp_background": "images/Mountain.png"
       },
       "properties": {
          "ntp_background_alignment": "bottom",
