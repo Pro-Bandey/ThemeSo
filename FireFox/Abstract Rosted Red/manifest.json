@@ -1,0 +1,26 @@
+{
+  "name": "Abstract Frosted Red",
+  "manifest_version": 2,
+  "version": "1.0",
+
+  "theme": {
+    "images": {
+      "theme_frame": "images/0.jpg"
+    },
+    "colors": {
+      "frame": "rgba(42, 55, 87, 1)",
+      "tab_background_text": "rgba(255, 255, 255, 1)",
+      "toolbar": "rgba(0, 0, 0, 0.67)",
+      "bookmark_text": "rgba(255, 224, 224, 1)",
+      "toolbar_field": "rgba(39, 35, 46, 0.76)",
+      "toolbar_field_text": "rgba(219, 244, 255, 1)",
+      "tab_line": "rgba(0, 0, 0, 1)"
+    }
+  },
+  
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "abstract-frosted-red@pro-bandey.com"
+    }
+  }
+}

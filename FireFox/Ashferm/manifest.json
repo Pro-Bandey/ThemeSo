@@ -1,0 +1,37 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Ashferm",
+
+  "theme": {
+    "images": {
+      "additional_backgrounds": ["images/0.svg"]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": ["top"],
+      "additional_backgrounds_tiling": ["repeat"]
+    },
+    "colors": {
+      "toolbar": "rgb(100, 92, 85)",
+      "toolbar_text": "rgb(220, 200, 182)",
+      "frame": "rgb(80, 74, 70)",
+      "tab_background_text": "rgb(220, 200, 182)",
+      "toolbar_field": "rgb(59, 56, 54)",
+      "toolbar_field_text": "rgb(220, 200, 182)",
+      "tab_line": "rgb(151, 137, 125)",
+      "popup": "rgb(220, 200, 182)",
+      "popup_text": "rgb(0, 0, 0)",
+      "frame_inactive": "rgb(40, 40, 40)",
+      "popup_border": "rgb(40, 40, 40)",
+      "toolbar_field_border_focus": "rgb(122, 111, 101)",
+      "toolbar_field_highlight_text": "rgb(167, 210, 194)",
+      "toolbar_field_highlight": "rgb(7, 102, 120)",
+      "tab_loading": "rgb(151, 137, 125)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "ashferm@pro-bandey.com"
+    }
+  }
+}

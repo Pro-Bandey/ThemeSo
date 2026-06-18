@@ -1,0 +1,46 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Octo Dark Violet",
+
+  "theme": {
+    "images": {
+      "additional_backgrounds": ["images/0.png"]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": ["right top"],
+      "additional_backgrounds_tiling": ["no-repeat"]
+    },
+    "colors": {
+      "toolbar": "rgba(86, 10, 131, 0.66)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(1, 36, 43)",
+      "tab_background_text": "rgb(140, 140, 140)",
+      "toolbar_field": "rgb(49, 49, 49)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(120, 60, 157)",
+      "popup": "rgb(27, 40, 45)",
+      "popup_text": "rgb(227, 192, 249)",
+      "button_background_active": "rgb(121, 33, 198)",
+      "button_background_hover": "rgb(121, 33, 198)",
+      "frame_inactive": "rgb(0, 0, 0)",
+      "icons_attention": "rgb(255, 119, 0)",
+      "icons": "rgb(227, 192, 249)",
+      "popup_border": "rgb(121, 33, 198)",
+      "sidebar_highlight_text": "rgb(255, 255, 255)",
+      "tab_background_separator": "rgb(227, 192, 249)",
+      "tab_loading": "rgb(255, 255, 255)",
+      "tab_selected": "rgb(120, 60, 157)",
+      "tab_text": "rgb(255, 255, 255)",
+      "toolbar_bottom_separator": "rgb(0, 16, 19)",
+      "toolbar_field_border": "rgb(227, 192, 249)",
+      "toolbar_vertical_separator": "rgb(227, 192, 249)"
+    }
+  },
+  
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "octo-dark-violet@pro-bandey.com"
+    }
+  }
+}
