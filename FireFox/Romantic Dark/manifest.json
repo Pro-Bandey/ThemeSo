@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "Romantic Dark",
+  "version": "1.0",
+  "description": "Romantic Dark Theme For Firefox",
+  "theme": {
+    "images": {
+      "additional_backgrounds": ["images/0.png"]
+    },
+    "colors": {
+      "frame": "rgba(62, 42, 51, 1)",
+      "tab_background_text": "rgba(255, 222, 230, 1)",
+      "toolbar": "rgba(42, 27, 39, 1)",
+      "bookmark_text": "rgba(255, 222, 230, 1)",
+      "toolbar_field": "rgba(141, 0, 29, 1)",
+      "toolbar_field_text": "rgba(255, 222, 230, 1)",
+      "tab_line": "rgba(255, 66, 107, 1)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "romantic-dark@pro-bandey.com"
+    }
+  }
+}

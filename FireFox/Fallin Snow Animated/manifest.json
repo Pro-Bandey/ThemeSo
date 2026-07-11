@@ -1,0 +1,55 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Falling Snow Animated",
+  "description": "Falling Snow Animated Theme For Firefox",
+  "theme": {
+    "images": {
+      "additional_backgrounds": ["images/0.png"]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": ["right top"],
+      "additional_backgrounds_tiling": ["repeat"]
+    },
+    "colors": {
+      "toolbar": "rgba(0, 0, 0, 0)",
+      "toolbar_text": "rgb(161, 169, 202)",
+      "frame": "rgb(2, 4, 18)",
+      "tab_background_text": "rgb(161, 169, 202)",
+      "toolbar_field": "rgb(19, 21, 38)",
+      "toolbar_field_text": "rgb(184, 192, 227)",
+      "tab_line": "rgba(161, 169, 202, 0.6)",
+      "popup": "rgb(19, 21, 38)",
+      "popup_text": "rgb(161, 169, 202)",
+      "frame_inactive": "rgb(2, 4, 18)",
+      "icons_attention": "rgb(107, 135, 255)",
+      "ntp_background": "rgb(2, 4, 18)",
+      "ntp_text": "rgb(161, 169, 202)",
+      "popup_border": "rgba(161, 169, 202, 0.6)",
+      "popup_highlight_text": "rgb(233, 236, 248)",
+      "popup_highlight": "rgba(161, 169, 202, 0.15)",
+      "sidebar_border": "rgba(161, 169, 202, 0.6)",
+      "sidebar_highlight_text": "rgb(233, 236, 248)",
+      "sidebar_highlight": "rgba(161, 169, 202, 0.15)",
+      "sidebar_text": "rgb(161, 169, 202)",
+      "sidebar": "rgb(19, 21, 38)",
+      "tab_background_separator": "rgba(161, 169, 202, 0.6)",
+      "tab_selected": "rgba(161, 169, 202, 0.15)",
+      "tab_text": "rgb(233, 236, 248)",
+      "toolbar_bottom_separator": "rgba(161, 169, 202, 0.15)",
+      "toolbar_field_border_focus": "rgba(0, 0, 0, 0)",
+      "toolbar_field_border": "rgba(161, 169, 202, 0.6)",
+      "toolbar_field_highlight_text": "rgb(233, 236, 248)",
+      "toolbar_field_highlight": "rgba(161, 169, 202, 0.15)",
+      "toolbar_field_text_focus": "rgb(233, 236, 248)",
+      "toolbar_top_separator": "rgba(161, 169, 202, 0.15)",
+      "toolbar_vertical_separator": "rgba(0, 0, 0, 0)",
+      "tab_loading": "rgba(161, 169, 202, 0.6)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "falling-snow-animated@pro-bandey.com"
+    }
+  }
+}

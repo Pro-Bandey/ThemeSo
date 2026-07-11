@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "ChocoTi",
+  "description": "ChocoTi Theme For Firefox",
+  "theme": {
+    "images": {
+      "additional_backgrounds": ["images/0.png"]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": ["right top"],
+      "additional_backgrounds_tiling": ["repeat"]
+    },
+    "colors": {
+      "toolbar": "rgba(92, 77, 77, 0.93)",
+      "toolbar_text": "rgb(242, 241, 231)",
+      "frame": "rgb(92, 77, 77)",
+      "tab_background_text": "rgb(211, 211, 201)",
+      "toolbar_field": "rgb(242, 241, 231)",
+      "toolbar_field_text": "rgb(92, 77, 77)",
+      "tab_line": "rgb(242, 241, 231)",
+      "popup": "rgb(92, 77, 77)",
+      "popup_text": "rgb(242, 241, 231)",
+      "tab_loading": "rgb(242, 241, 231)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "chocoti@pro-bandey.com"
+    }
+  }
+}

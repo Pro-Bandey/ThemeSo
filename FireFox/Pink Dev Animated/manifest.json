@@ -1,0 +1,45 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Pink Dev Animated",
+  "description": "Pink Dev Animated Theme For Firefox",
+  "theme": {
+    "images": {
+      "additional_backgrounds": ["images/0.png", "images/1.png"]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": ["right top", "right top"],
+      "additional_backgrounds_tiling": ["no-repeat", "repeat"]
+    },
+    "colors": {
+      "toolbar": "rgba(39, 40, 60, 0.17)",
+      "toolbar_text": "rgba(255, 196, 247, 0.76)",
+      "frame": "rgb(3, 6, 23)",
+      "tab_background_text": "rgb(255, 196, 247)",
+      "toolbar_field": "rgba(70, 60, 101, 0.35)",
+      "toolbar_field_text": "rgb(255, 196, 247)",
+      "tab_line": "rgb(199, 103, 187)",
+      "popup": "rgba(59, 57, 112, 0.95)",
+      "popup_text": "rgb(255, 196, 247)",
+      "button_background_active": "rgba(162, 235, 228, 0.27)",
+      "button_background_hover": "rgba(188, 251, 246, 0.34)",
+      "frame_inactive": "rgba(162, 235, 228, 0.27)",
+      "icons": "rgb(255, 141, 240)",
+      "ntp_text": "rgb(255, 141, 240)",
+      "popup_highlight_text": "rgba(255, 196, 247, 0.76)",
+      "sidebar_border": "rgba(162, 235, 228, 0.9)",
+      "sidebar_text": "rgba(188, 251, 246, 0.9)",
+      "sidebar": "rgb(3, 6, 23)",
+      "tab_selected": "rgba(46, 41, 78, 0)",
+      "tab_text": "rgba(255, 196, 247, 0.76)",
+      "toolbar_field_highlight_text": "rgba(255, 196, 247, 0.76)",
+      "toolbar_field_text_focus": "rgba(255, 196, 247, 0.76)",
+      "tab_loading": "rgb(199, 103, 187)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "pink-dev-animated@pro-bandey.com"
+    }
+  }
+}

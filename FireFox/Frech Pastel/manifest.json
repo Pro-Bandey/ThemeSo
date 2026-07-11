@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "French Pastel",
+  "description": "French Pastel Theme For Firefox",
+  "theme": {
+    "images": {
+      "additional_backgrounds": ["images/0.svg"]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": ["top"],
+      "additional_backgrounds_tiling": ["repeat"]
+    },
+    "colors": {
+      "toolbar": "rgb(179, 208, 119)",
+      "toolbar_text": "rgb(48, 49, 88)",
+      "frame": "rgb(87, 76, 129)",
+      "tab_background_text": "rgb(229, 249, 185)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(48, 57, 31)",
+      "tab_line": "rgb(49, 75, 39)",
+      "popup": "rgb(255, 255, 255)",
+      "popup_text": "rgb(50, 51, 92)",
+      "tab_loading": "rgb(49, 75, 39)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "french-pastel@pro-bandey.com"
+    }
+  }
+}

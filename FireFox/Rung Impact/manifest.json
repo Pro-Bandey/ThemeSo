@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Rung Impact",
+  "theme": {
+    "images": {
+      "additional_backgrounds": ["images/0.jpg", "images/1.png"]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": ["right top", "right top"],
+      "additional_backgrounds_tiling": ["repeat", "repeat"]
+    },
+    "colors": {
+      "toolbar": "rgba(0, 0, 0, 0.62)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(227, 30, 57)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgba(255, 255, 255, 0.61)",
+      "toolbar_field_text": "rgb(0, 0, 0)",
+      "tab_line": "rgb(94, 178, 206)",
+      "popup": "rgba(0, 0, 0, 0.79)",
+      "popup_text": "rgb(227, 30, 105)",
+      "frame_inactive": "rgba(0, 0, 0, 0.57)",
+      "tab_loading": "rgb(94, 178, 206)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "rung-impact@pro-bandey.com"
+    }
+  }
+}
